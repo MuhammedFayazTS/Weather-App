@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee677493.css",
+    "main.js": "/static/js/main.044fbe50.js",
+    "static/media/snow.png": "/static/media/snow.622a48c00948ba94f98e.png",
+    "static/media/thunderstorms-day.png": "/static/media/thunderstorms-day.cfb9d1b1a8be6b4ea249.png",
+    "static/media/thermometer-warmer.png": "/static/media/thermometer-warmer.7bee6c73d3c55052352f.png",
+    "static/media/thermometer-colder.png": "/static/media/thermometer-colder.f817102495f26a0301dd.png",
+    "static/media/rain.png": "/static/media/rain.820861f5b7753b0f4c84.png",
+    "static/media/haze.png": "/static/media/haze.a17e35156114447437f9.png",
+    "static/media/humidity.png": "/static/media/humidity.e9de48ddc4ade5053323.png",
+    "static/media/clear-day.png": "/static/media/clear-day.5e4916101fa7cf73f5c9.png",
+    "static/media/thermometer.png": "/static/media/thermometer.4043336a83925c72259e.png",
+    "index.html": "/index.html",
+    "main.ee677493.css.map": "/static/css/main.ee677493.css.map",
+    "main.044fbe50.js.map": "/static/js/main.044fbe50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee677493.css",
+    "static/js/main.044fbe50.js"
+  ]
+}
